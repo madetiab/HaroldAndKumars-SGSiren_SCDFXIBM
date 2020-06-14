@@ -20,7 +20,7 @@ Response time of emergency vehicles is a crucial factor in the civil defence for
 We sought a way to reduce the time wasted by emergency vehicles negotiating traffic with the use of technology. Considering the fact that the new in-vehicle units would contain GPS capabilities, we decided to explore the use of this device to alert drivers of approaching emergency vehicles in advance, such that motorists would have ample time to make way for emergency vehicles. Furthermore, traffic lights could also be toggled to provide a hurdle-free route for emergency vehicles.
 
 ### **How can Technology Help?** 
-The use of the IoT capabilities in IBM CLoud could allow for the sharing of IU data to alert motorists on the route set by the emergency vehicle. This GPS data could track vehicles and traffic lights within a proximity of 200m (or any other pre-set) distance along a particular route to alert motorists to begin filtering to give way for the emergency vehicles or toggling traffic lights to provide red-light free routes for emergency vehicles.
+The use of the IoT capabilities in IBM Cloud could allow for the sharing of IU data to alert motorists on the route set by the emergency vehicle. This GPS data could track vehicles and traffic lights within a proximity of 200m (or any other pre-set) distance along a particular route to alert motorists to begin filtering to give way for the emergency vehicles or toggling traffic lights to provide red-light free routes for emergency vehicles.
 
 ## **System Architecture**
 
