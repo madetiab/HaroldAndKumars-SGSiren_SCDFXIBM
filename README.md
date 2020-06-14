@@ -34,5 +34,6 @@ The use of the IoT capabilities in IBM Cloud could allow for the sharing of IU d
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 * [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+* [Node-Red](https://nodered.org/docs/getting-started/ibmcloud) - Platform to link IoT devices
 
 ## **Long Description**
