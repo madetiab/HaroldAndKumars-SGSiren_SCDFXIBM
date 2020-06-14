@@ -12,3 +12,9 @@ Currently, a GPS route is automatically set to guide an emergency vehicle to its
 We devised a solution that would eventually be able to harness the **GPS capabilities** in these smart in-vehicle units to alert drivers of approaching emergency vehicles in real-time. When a route is set on the GPS of the emergency vehicle, motorists in the proximity (within 200m) of the vehicles would get an **alert on the IU** to move to a particular lane, depending on the movement of the emergency vehicle. This would clear the path for emergency services ahead of time and provide motorists with **more time to safely filter out of the emergency lane**.
 
 This is effectively an **IoT solution** utilizing the capabilities of connected devices. Upon selecting an emergency route, data from IUs currently present on the route can be **collected on IBM cloud, and filtered in real-time**. Vehicles in a 200m proximity would then be notified about the incoming emergency vehicle through their IUs.
+
+## **Implementation and Future Development**
+
+Implementation of this process can be done upon the issue of the new IUs by LTA. Since these systems already use **GPS data to pay ERP tolls**, the same data can be used to interact with the SCDF vehicle routes. This can be done by simply downloading an application on the IU device or rolling out standard-issue software updates to implement this system. 
+
+In the future, the same concept can be applied to **traffic lights**, which could have smart capabilites implemented to turn red or green depending on the route taken by emergency vehicles. This would control the flow of traffic to create a **non-stop route** for emergency vehicles. This, combined with an alert system for individual IUs, would eventually allow for the **reduction of travel time for emergency vehicles** and potentially save many more lives.
