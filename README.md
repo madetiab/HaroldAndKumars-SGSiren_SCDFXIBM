@@ -37,3 +37,4 @@ The use of the IoT capabilities in IBM Cloud could allow for the sharing of IU d
 * [Node-Red](https://nodered.org/docs/getting-started/ibmcloud) - Platform to link IoT devices
 
 ## **Long Description**
+* [Click here for more details.](DESCRIPTION.md)
