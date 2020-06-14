@@ -23,8 +23,6 @@ The use of the IoT capabilities in IBM Cloud could allow for the sharing of IU d
 
 ## **System Architecture**
 
-## **Product Development Timeline**
-
 ## **Getting Started**
 
 ## **Pitch Video**
