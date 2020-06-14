@@ -5,7 +5,6 @@ We are 4 students from NUS Engineering with a passion for learning new things an
 ## **Contents**
 1. [Short Description](#short-description)
 1. [System Architecture](#system-architecture)
-1. [Product Development Timeline](#product-development-timeline)
 1. [Getting Started](#getting-started)
 1. [Pitch Video](#pitch-video)
 1. [Built With](#built-with)
