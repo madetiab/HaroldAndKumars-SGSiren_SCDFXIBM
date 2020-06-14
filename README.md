@@ -32,6 +32,7 @@ Device ID: 11223344 (to simulate car) AND 112233 (to simuluate EV)\
 Auth Token: qwerty123 (for car)/ qwerty1234 (for EV)
 
 ## **Pitch Video**
+[![Watch the video](https://github.com/madetiab/HaroldAndKumars-SGSiren_SCDFXIBM/blob/master/SGSiren%20Video.jpeg)](https://youtu.be/K5xYc0X5Dmk)
 
 ## **Built With**
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
