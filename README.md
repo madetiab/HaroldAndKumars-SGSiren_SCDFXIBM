@@ -3,7 +3,7 @@ We are 4 students from NUS Engineering with a passion for learning new things an
 
 
 ## **Contents**
-1. [Short Description](short-description)
+1. [Short Description](#short-description)
 
 ## **Short Description**
 
