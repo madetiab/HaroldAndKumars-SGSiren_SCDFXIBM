@@ -21,7 +21,7 @@ We sought a way to reduce the time wasted by emergency vehicles negotiating traf
 The use of the IoT capabilities in IBM Cloud could allow for the sharing of IU data to alert motorists on the route set by the emergency vehicle. This GPS data could track vehicles and traffic lights within a proximity of 200m (or any other pre-set) distance along a particular route to alert motorists to begin filtering to give way for the emergency vehicles or toggling traffic lights to provide red-light free routes for emergency vehicles.
 
 ## **System Architecture**
-![System arch diagram](SystemArch.png)
+![System arch diagram](SystemArch1.png)
 
 ## **Getting Started**
 [Click here to redirect to app location](https://github.com/deveops/iot-starter-for-android/releases)
