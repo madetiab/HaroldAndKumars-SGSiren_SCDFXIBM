@@ -1,6 +1,5 @@
-# HaroldAndKumars-SGSiren_SCDFXIBM
-We are 4 students from NUS Engineering with a passion for learning new things and using this knowledge to help others :)
-
+# HaroldAndKumars-SGSiren
+An IoT solution to alert motorists of approaching emergency vehicles using the new in-vehicle unit to provide them with ample time to safely filter lanes and reduce travel time for emergency vehicles.
 
 ## **Contents**
 1. [Short Description](#short-description)
