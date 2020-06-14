@@ -24,6 +24,12 @@ The use of the IoT capabilities in IBM Cloud could allow for the sharing of IU d
 ![System arch diagram](SystemArch.png)
 
 ## **Getting Started**
+[Click here to redirect to app location]https://github.com/deveops/iot-starter-for-android/releases
+
+Once opened, you will be prompted to enter the following parameters:
+Organization: igndoh
+Device ID: 11223344 (to simulate car) AND 112233 (to simuluate EV)
+Auth Token: qwerty123 (for car)/ qwerty1234 (for EV)
 
 ## **Pitch Video**
 
